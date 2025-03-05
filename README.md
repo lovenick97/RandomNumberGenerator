@@ -1,7 +1,7 @@
 # RandomNumberGenerator
 Class to generate a number from a discrete probability distribution function.
 
-##Breif:
+## Breif:
 
 Implement the method nextNum() and a minimal but effective set of unit tests. Implement in the language of your choice, Python is preferred,
 but Java and other languages are completely fine. Make sure your code is exemplary, as if it was going to be shipped as part of a production
